@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Daniel Santos  
+### 💻 Estudante de Defesa Cibernética | 🔐 Segurança da Informação |
 
-<!--
-**DanielSantos-tech/DanielSantos-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia, segurança digital e soluções aplicadas a ambientes industriais e IoT. Atualmente curso **Defesa Cibernética na wyden** e trabalho em projetos envolvendo segurança ofensiva, análise de vulnerabilidades e criação de ambientes de teste. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas
+- **Segurança:** Kali Linux, Metasploit, Wireshark, Nmap, BurpSuite  
+- **Programação:** HTML5, CSS3, JavaScript  
+- **Infra:** Docker, Linux, VirtualBox  
+- **Git & GitHub:** versionamento, branches, commits limpos  
+
+---
+
+## 📁 Projetos em Destaque
+🔹 **Calculadora em JavaScript** – Projeto simples mostrando lógica e manipulação do DOM  
+🔹 **Lab de Pentesting Local** – Ambiente com VMs vulneráveis (em construção)  
+🔹 **Checklist de Segurança IoT** – Material prático baseado no meu estudo  
+
+---
+
+## 📫 Contato
+📧 daniel.silva.sants@hotmail.com  
+🔗 LinkedIn: www.linkedin.com/in/daniel-s-silvafarmacia
+
+---
+“Conhecimento em segurança é evolução constante.”
